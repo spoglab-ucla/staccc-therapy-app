@@ -1,0 +1,5 @@
+[submodule "ALICE"]
+	path = ALICE
+	url = https://github.com/spoglab-ucla/ALICE
+	branch = new_diarizer
+ 
