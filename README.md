@@ -4,6 +4,6 @@ This is the repo for STACCC [ˈstæk] , the Speech Therapy App for Counselors, C
 
 **Contributors:** Arjun Pawar (UCLA) and P.I. Meg Cychosz (UCLA)
 
-<img src="https://github.com/spoglab-ucla/staccc-therapy-app/blob/main/staccclogo.png" width="280">
+<img src="https://github.com/spoglab-ucla/staccc-therapy-app/blob/main/staccc-circle-logo.png" width="280">
 
 
