@@ -37,8 +37,8 @@ all_avail_IDs = []
 
 main_input_folder = "/Users/arjun/Box/box-group-lena-studies/Soundscape/wavFiles"
 main_output_folder = "/Users/arjun/Box/box-group-lena-studies/Soundscape/ucsf_app_stuff"
-ucsf_logo_path = '/Users/arjun/Documents/College/spoglabapp/ucsf_logo.jpeg'
-spog_logo_path = '/Users/arjun/Documents/College/spoglabapp/spoglab_logo.png'
+ucsf_logo_path = '/Users/arjun/Documents/College/spoglabapp/pngfiles/ucsf_logo.jpeg'
+spog_logo_path = '/Users/arjun/Documents/College/spoglabapp/pngfiles/spoglab_logo.png'
 
 # -----------------------------------------------------------
 # Creating a record of all child IDs which are available
