@@ -1,3 +1,11 @@
+''' 
+    ==========================================
+    SPOG Lab, UCLA 
+    
+    Authors: Arjun Pawar and Dr. Meg Cychosz
+    ==========================================
+'''
+
 import pandas as pd
 import numpy as np
 import scipy.io as sc
@@ -14,6 +22,7 @@ from datetime import timedelta
 from pytz import timezone
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 
 # -----------------------------------------------------------
 # Global variables that should be changed

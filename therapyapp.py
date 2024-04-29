@@ -1,3 +1,11 @@
+''' 
+    ==========================================
+    SPOG Lab, UCLA 
+    
+    Authors: Arjun Pawar and Dr. Meg Cychosz
+    ==========================================
+'''
+
 import pandas as pd
 import numpy as np
 import scipy.io as sc
